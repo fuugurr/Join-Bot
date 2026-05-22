@@ -1,16 +1,15 @@
 {
-    "TOKEN": "TOKEN",
-    "CLIENT_ID": "Bot_ID",
-    "GUILD_ID": "Server_ID",
+    "CLIENT_ID": "1507417191270846644",
+    "GUILD_ID": "1504529856157712505",
     "options": [
         {
-            "name": "Section Name",
-            "admins": ["ID", "ID"],
-            "image": "LINK",
+            "name": "دخول و خروج",
+            "admins": ["1284227908512120916", "1345950047656869940"],
+            "image": "https://cdn.discordapp.com/icons/1504529856157712505/9d7ec22cbe782c568ac5a6da737d738e.webp?size=1024",
             "emoji": "🛠️",
-            "logchannel": "ID",
-            "role": "ID"
+            "logchannel": "1507418289217994803",
+            "role": "1504779935687119019"
         }
     ],
-    "managerLogChannel": "ID"
+    "managerLogChannel": "1507418289217994803"
 }
